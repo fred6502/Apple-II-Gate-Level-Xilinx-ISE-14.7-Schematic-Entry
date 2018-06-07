@@ -1,0 +1,7 @@
+sch2hdl -intstyle ise -family spartan3e -verilog chipi74LS153.vf -w C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chipi74LS153.sch 
+sch2sym -intstyle ise -family spartan3e -refsym chipi74LS153 C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chipi74LS153.sch C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chipi74LS153.sym 
+sch2hdl -intstyle ise -family spartan3e -verilog chipi74LS153_drc.vf -w C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chipi74LS153.sch 
+sch2hdl -intstyle ise -family spartan3e -verilog chipi74LS153_drc.vf -w C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chipi74LS153.sch 
+sch2hdl -intstyle ise -family spartan3e -verilog chipi74LS153.vf -w C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chipi74LS153.sch 
+sch2hdl -intstyle ise -family spartan3e -verilog chipi74LS153_drc.vf -w C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chipi74LS153.sch 
+sch2verilog -intstyle ise -family spartan3e -tionly {} -tiext tfi -w C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chipi74LS153.sch chipi74LS153.tfi 

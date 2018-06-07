@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chip74LS257_chip74LS257_sch_tb_isim_beh.exe" -prj "C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chip74LS257_chip74LS257_sch_tb_beh.prj" "work.chip74LS257_chip74LS257_sch_tb" "work.glbl" 

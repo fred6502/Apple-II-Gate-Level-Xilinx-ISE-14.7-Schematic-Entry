@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="ClockVideoGenerator">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2018-6-5T4:4:38</timestamp>
+    <pin polarity="Output" x="1120" y="-1472" name="AX" />
+    <pin polarity="Output" x="1184" y="-1472" name="CASn" />
+    <pin polarity="Output" x="1312" y="-1472" name="COLOR_REF" />
+    <pin polarity="Output" x="992" y="-1472" name="H0" />
+    <pin polarity="Output" x="928" y="-1472" name="H1" />
+    <pin polarity="Output" x="864" y="-1472" name="H2" />
+    <pin polarity="Output" x="800" y="-1472" name="H3" />
+    <pin polarity="Output" x="736" y="-1472" name="H4" />
+    <pin polarity="Output" x="672" y="-1472" name="H5" />
+    <pin polarity="Output" x="1376" y="-1472" name="LD194" />
+    <pin polarity="Output" x="1056" y="-1472" name="LDPSn" />
+    <pin polarity="Output" x="1248" y="-1472" name="RASn" />
+    <pin polarity="Input" x="96" y="0" name="SOFT5_A2_11" />
+    <pin polarity="Input" x="160" y="0" name="SOFT5_A2_8" />
+    <pin polarity="Output" x="416" y="-1472" name="V0" />
+    <pin polarity="Output" x="352" y="-1472" name="V1" />
+    <pin polarity="Output" x="288" y="-1472" name="V2" />
+    <pin polarity="Output" x="224" y="-1472" name="V3" />
+    <pin polarity="Output" x="160" y="-1472" name="V4" />
+    <pin polarity="Output" x="96" y="-1472" name="V5" />
+    <pin polarity="Output" x="608" y="-1472" name="VA" />
+    <pin polarity="Output" x="544" y="-1472" name="VB" />
+    <pin polarity="Output" x="480" y="-1472" name="VC" />
+    <pin polarity="Input" x="0" y="-592" name="CLK_14o3M" />
+    <pin polarity="Output" x="1472" y="-912" name="c7M" />
+    <pin polarity="Output" x="1472" y="-848" name="c7Mn" />
+    <pin polarity="Output" x="1472" y="-784" name="PHI0" />
+    <pin polarity="Output" x="1472" y="-720" name="PHI1" />
+    <pin polarity="Output" x="1472" y="-656" name="Q3" />
+    <graph>
+        <rect width="1344" x="64" y="-1408" height="1344" />
+        <attrtext style="alignment:CENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="736" y="-736" type="symbol" />
+        <line x2="1120" y1="-1408" y2="-1472" x1="1120" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1120" y="-1400" type="pin AX" />
+        <line x2="1184" y1="-1408" y2="-1472" x1="1184" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1184" y="-1400" type="pin CASn" />
+        <line x2="1312" y1="-1408" y2="-1472" x1="1312" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1312" y="-1400" type="pin COLOR_REF" />
+        <line x2="992" y1="-1408" y2="-1472" x1="992" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="992" y="-1400" type="pin H0" />
+        <line x2="928" y1="-1408" y2="-1472" x1="928" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="928" y="-1400" type="pin H1" />
+        <line x2="864" y1="-1408" y2="-1472" x1="864" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="864" y="-1400" type="pin H2" />
+        <line x2="800" y1="-1408" y2="-1472" x1="800" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="800" y="-1400" type="pin H3" />
+        <line x2="736" y1="-1408" y2="-1472" x1="736" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="736" y="-1400" type="pin H4" />
+        <line x2="672" y1="-1408" y2="-1472" x1="672" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="672" y="-1400" type="pin H5" />
+        <line x2="1376" y1="-1408" y2="-1472" x1="1376" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1376" y="-1400" type="pin LD194" />
+        <line x2="1056" y1="-1408" y2="-1472" x1="1056" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1056" y="-1400" type="pin LDPSn" />
+        <line x2="1248" y1="-1408" y2="-1472" x1="1248" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1248" y="-1400" type="pin RASn" />
+        <line x2="96" y1="-64" y2="0" x1="96" />
+        <attrtext style="alignment:VLEFT;fontsize:24;fontname:Arial" attrname="PinName" x="96" y="-72" type="pin SOFT5_A2_11" />
+        <line x2="160" y1="-64" y2="0" x1="160" />
+        <attrtext style="alignment:VLEFT;fontsize:24;fontname:Arial" attrname="PinName" x="160" y="-72" type="pin SOFT5_A2_8" />
+        <line x2="416" y1="-1408" y2="-1472" x1="416" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="416" y="-1400" type="pin V0" />
+        <line x2="352" y1="-1408" y2="-1472" x1="352" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="352" y="-1400" type="pin V1" />
+        <line x2="288" y1="-1408" y2="-1472" x1="288" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="288" y="-1400" type="pin V2" />
+        <line x2="224" y1="-1408" y2="-1472" x1="224" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="224" y="-1400" type="pin V3" />
+        <line x2="160" y1="-1408" y2="-1472" x1="160" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="160" y="-1400" type="pin V4" />
+        <line x2="96" y1="-1408" y2="-1472" x1="96" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="96" y="-1400" type="pin V5" />
+        <line x2="608" y1="-1408" y2="-1472" x1="608" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="608" y="-1400" type="pin VA" />
+        <line x2="544" y1="-1408" y2="-1472" x1="544" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="544" y="-1400" type="pin VB" />
+        <line x2="480" y1="-1408" y2="-1472" x1="480" />
+        <attrtext style="alignment:VRIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="480" y="-1400" type="pin VC" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="84" y="-592" type="pin CLK_14o3M" />
+        <line x2="0" y1="-592" y2="-592" x1="60" />
+        <line x2="1472" y1="-912" y2="-912" x1="1408" />
+        <line x2="1472" y1="-848" y2="-848" x1="1408" />
+        <line x2="1472" y1="-784" y2="-784" x1="1408" />
+        <line x2="1472" y1="-720" y2="-720" x1="1408" />
+        <line x2="1472" y1="-656" y2="-656" x1="1408" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1400" y="-656" type="pin Q3" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1400" y="-720" type="pin PHI1" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1400" y="-784" type="pin PHI0" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1400" y="-848" type="pin c7Mn" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="1400" y="-912" type="pin c7M" />
+        <text style="fontsize:56;fontname:Arial" x="284" y="-1100">APPLE II Clock and Video Generator</text>
+        <text style="fontsize:44;fontname:Arial" x="492" y="-1028">Entered into Xilinx ISE 14.7</text>
+        <text style="fontsize:44;fontname:Arial" x="740" y="-976">by</text>
+        <text style="fontsize:40;fontname:Arial" x="636" y="-924">Frederick Kilner </text>
+        <text style="fontsize:32;fontname:Arial" x="504" y="-876">June 4th Year or our Lord  2018 A.D.</text>
+        <text style="fontsize:32;fontname:Arial" x="548" y="-112">Apple ][ Will Live Forever</text>
+        <circle r="12" cx="1056" cy="-1416" />
+        <circle r="12" cx="1186" cy="-1416" />
+        <circle r="12" cx="1246" cy="-1416" />
+        <circle r="10" cx="94" cy="-54" />
+        <circle r="11" cx="160" cy="-54" />
+    </graph>
+</symbol>

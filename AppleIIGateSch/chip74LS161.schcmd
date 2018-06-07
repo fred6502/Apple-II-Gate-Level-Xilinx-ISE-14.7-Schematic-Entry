@@ -1,0 +1,10 @@
+select figure at 134 1564 8 -branches -sn=1
+select figure at 501 353 8 -branches -sn=1
+delete selection -sn=1
+name branch at 496 384 8 PEn -sn=1
+name branch at 512 384 8 PEn -sn=1
+select figure at 375 383 8 -branches -sn=1
+delete selection -sn=1
+select figure at 379 386 8 -branches -sn=1
+move bawin at 416 384 to 496 384 -sn=1
+add iomarker 416 384 0 Input Unknown -sn=1

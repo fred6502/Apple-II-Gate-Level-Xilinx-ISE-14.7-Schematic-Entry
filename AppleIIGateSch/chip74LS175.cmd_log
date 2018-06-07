@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan3e -verilog chip74LS175_drc.vf -w C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chip74LS175.sch 
+sch2verilog -intstyle ise -family spartan3e -tionly {} -tiext tfi -w C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chip74LS175.sch chip74LS175.tfi 

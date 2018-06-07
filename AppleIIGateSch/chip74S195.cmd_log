@@ -1,0 +1,1 @@
+sch2hdl -intstyle ise -family spartan3e -verilog chip74S195.vf -w C:/Users/Fred6502/Xilinx/tutorial/AppleIIGateSch/chip74S195.sch 
